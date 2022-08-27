@@ -1,0 +1,14 @@
+.btn-info {
+    font-size:25px;
+    font-family: 'Courier New', Courier, monospace;
+ }
+ 
+ .btn-success:hover{
+     background-color: darkred;
+ }
+ 
+ canvas{
+
+     border:2px solid rgb(0, 0, 0);
+ 
+ }
